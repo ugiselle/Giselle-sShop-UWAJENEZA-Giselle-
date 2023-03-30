@@ -1,0 +1,50 @@
+.navmenu{
+	background-color: grey;
+	border-radius: 50px 50px 50px 50px;
+}
+.navmenu a{
+	font-style: oblique;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+	font-family: ariel;
+	padding: 20px
+}
+.navmenu a:hover{
+	color:skyblue;
+	font-size: 25px;
+	text-decoration: underline;
+	background-color: grey;
+}
+.navmenu a:visited{
+	color:green;
+	text-decoration: none;
+	background-color: hotpink;
+	font-size: 25px;
+
+}
+.navmenu a:link{
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+}
+.navmenu a:active{
+	background-color: white;
+	text-decoration:none ;
+}
+.fav li{
+	list-style: upper-alpha;
+}
+.ollist li{
+	list-style: upper-roman;
+	
+}
+.qu4 table tr td{
+	font-size: 40px;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+	font-style: oblique;
+	font-weight: bold;
+	background-color: skyblue;
+}
